@@ -1,0 +1,45 @@
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\bin\Debug\Skulsys.exe
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\bin\Debug\Skulsys.pdb
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\bin\Debug\Skulsys.xml
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.home.resources
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.LoginForm1.resources
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.Resources.resources
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.vbproj.GenerateResource.Cache
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.exe
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.xml
+C:\Users\Martin\AppData\Local\Temporary Projects\Skulsys\obj\Debug\Skulsys.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\bin\Debug\Skulsys.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\bin\Debug\Skulsys.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\bin\Debug\Skulsys.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.academics.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.admissions.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.home.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.LoginForm1.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.vbproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.useraccounts.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.admission.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.frmallocateHostel.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Debug\Skulsys.Parents.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.exe
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.xml
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.pdb
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\ResolveAssemblyReference.cache
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.academics.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.admission.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.admissions.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.frmallocateHostel.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.home.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.LoginForm1.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.Resources.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.Parents.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.useraccounts.resources
+G:\VB PROJOZ\Skulsys\Skulsys\obj\Debug\Skulsys.vbproj.GenerateResource.Cache
+G:\VB PROJOZ\Skulsys\Skulsys\bin\Debug\Skulsys.exe
+G:\VB PROJOZ\Skulsys\Skulsys\bin\Debug\Skulsys.pdb
+G:\VB PROJOZ\Skulsys\Skulsys\bin\Debug\Skulsys.xml

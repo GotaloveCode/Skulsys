@@ -1,0 +1,14 @@
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.academics.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.admissions.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.home.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.LoginForm1.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.Resources.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.useraccounts.resources
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.vbproj.GenerateResource.Cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\bin\Release\Skulsys.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\bin\Release\Skulsys.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\bin\Release\Skulsys.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.xml
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\Skulsys\Skulsys\obj\Release\Skulsys.pdb
